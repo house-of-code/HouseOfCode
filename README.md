@@ -1,7 +1,7 @@
 #Praktik opgave til HouseOfCode
 ##Login app - Baseret på HOC Api
 
-![alt-text-1](http://andersbchristensen.com/rsz_screenshot_439.jpg) ![alt-text-2](http://andersbchristensen.com/rsz_screenshot_439.jpg)
+![alt-text-1](http://andersbchristensen.com/rsz_screenshot_438.jpg) ![alt-text-2](http://andersbchristensen.com/rsz_screenshot_439.jpg)
 
 * Anders Butzbach Christensen, anders@chally.me
 
