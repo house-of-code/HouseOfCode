@@ -1,9 +1,6 @@
 #Praktik opgave til HouseOfCode
 ##Login app - Baseret på HOC Api
 
-
-##Programmører medlemmer
-
 * Anders Butzbach Christensen, anders@chally.me
 
 
