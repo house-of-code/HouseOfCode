@@ -1,8 +1,6 @@
 #Praktik opgave til HouseOfCode
 ##Login app - Baseret på HOC Api
 
-![alt-text-1](http://andersbchristensen.com/rsz_screenshot_438.jpg) ![alt-text-2](http://andersbchristensen.com/rsz_screenshot_439.jpg)
-
 * Anders Butzbach Christensen, anders@chally.me
 
 
@@ -21,4 +19,6 @@ De undgår login hver eneste gang og kan derfor hurtigt komme ind i appen og bru
 ##Mangler
 Man vil nok gøre det mere Objekt orienteret i fremtiden, med en evt response class og subcription class.
 
+##Billeder af appen
 
+![alt-text-1](http://andersbchristensen.com/rsz_screenshot_438.jpg) ![alt-text-2](http://andersbchristensen.com/rsz_screenshot_439.jpg)
